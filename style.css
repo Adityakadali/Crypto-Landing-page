@@ -14,7 +14,7 @@
 body {
   background-image: url("./assets/bg.png");
   background-size: cover;
-  background-position: 0px;
+  background-position: top;
   background-repeat: no-repeat;
 }
 
