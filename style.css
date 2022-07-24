@@ -37,6 +37,7 @@ nav li {
   color: white;
   font-weight: 600;
   margin: 20px 20px;
+  cursor: pointer;
 }
 
 nav li:nth-child(1)::after {
